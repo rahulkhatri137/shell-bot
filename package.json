@@ -30,6 +30,9 @@
     "type": "git",
     "url": "https://github.com/botgram/shell-bot.git"
   },
+  "engines": {
+    "node": "16.16.0"
+  },
   "license": "MIT",
   "author": "Alba Mendez <me@alba.sh> (https://alba.sh)"
 }
